@@ -1,0 +1,21 @@
+# Misc
+.DS_Store
+*.log
+Thumbs.db
+desktop.ini
+
+
+# Dependencies
+.vscode/
+.pycharm/
+.idea/
+
+.venv/
+venv/
+env/
+
+__pycache__/
+
+.env
+.*.env
+!.env.example
